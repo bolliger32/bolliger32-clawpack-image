@@ -1,4 +1,4 @@
-[![dockerhub build status](https://img.shields.io/docker/build/ClimateImpactLab/bolliger32-clawpack-image.svg)](https://hub.docker.com/r/ClimateImpactLab/bolliger32-clawpack-image/) [![Docker Pulls](https://img.shields.io/docker/pulls/ClimateImpactLab/bolliger32-clawpack-image.svg)](https://hub.docker.com/r/ClimateImpactLab/bolliger32-clawpack-image/)
+[![dockerhub build status](https://img.shields.io/docker/build/climateimpactlab/bolliger32-clawpack-image.svg)](https://hub.docker.com/r/climateimpactlab/bolliger32-clawpack-image/) [![Docker Pulls](https://img.shields.io/docker/pulls/climateimpactlab/bolliger32-clawpack-image.svg)](https://hub.docker.com/r/climateimpactlab/bolliger32-clawpack-image/)
 
 # bolliger32-clawpack-image
 
