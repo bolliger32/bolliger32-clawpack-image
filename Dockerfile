@@ -69,7 +69,7 @@ RUN git clone --recurse-submodules -j4 https://github.com/bolliger32/clawpack.gi
     && cd clawpack \
     && pip install -e .
 
-ENV CLAW=/clawpack-v5.4.1
+ENV CLAW=/clawpack
 ENV FC=gfortran
 
 # clean up
