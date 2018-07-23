@@ -65,7 +65,7 @@ RUN pip install daskernetes==0.1.3 \
 
 RUN apt-get install -y gfortran
 
-RUN git clone --recurse-submodules -j4 https://github.com/bolliger32/clawpack.git \
+RUN git clone --recurse-submodules -j4 https://github.com/ClimateImpactLab/clawpack.git \
     && cd clawpack \
     && pip install -e .
 
